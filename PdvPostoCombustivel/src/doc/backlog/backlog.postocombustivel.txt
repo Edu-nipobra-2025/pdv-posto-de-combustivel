@@ -1,0 +1,28 @@
+#Itens de Backlog
+
+1- Novo produto: Funcionalidades que ainda não existem no produto;
+2- Melhorias: Alterações em recursos existentes para aprimorar a experiência de usuário;
+3- Bugs: Defeitos e falhas;
+4- Divida técnica: Trabalho necessário para refatorar o código;
+5- Mudanças de Design e Problemas de UX: Alterações necessárias para melhorar a aparência do produto;
+6- Aquisição de Conhecimento (Spikes): Investigação ou protótipo para reduzir as incertezas sobre o produto;
+7- Solicitações de Clientes e Partes: Demandas vindas de usuários e outras pessoas envolvidas no projeto;
+
+1.1 - Requisitos Não Funcionais:
+1.1.1 - Descritivo Técnico:
+ # Backend desenvolvido em Java 15
+ # Utilizando Maven para gestão de dependência de projeto.
+ # Swing para interface com o usuário.
+ #Versionamento do projeto: Git/GitHub.
+
+
+1.2 - Requisitos Funcionais:
+# Login com senha e nome de usuário
+
+1.2.3
+
+# gestão de compras e custo do projeto
+# compras: custo de álcool-etanol, custo da gasolina, diferença de preço do produto com valor do imposto incluido
+informação de cada produto enviado da bomba para o sistema, custo de frentista.
+# Squad de desenvolvimento: William Marques, Lucca Alves Gomessan, Eduardo Augusto, Riudy Eduardo Uto, Erick,
+Darios, João "Mineiro" Vitor, Matheus, Gabriel Perdigão, Douglas
