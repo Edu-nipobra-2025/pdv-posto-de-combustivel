@@ -24,5 +24,5 @@
 # gestão de compras e custo do projeto
 # compras: custo de álcool-etanol, custo da gasolina, diferença de preço do produto com valor do imposto incluido
 informação de cada produto enviado da bomba para o sistema, custo de frentista.
-# Squad de desenvolvimento: William Marques, Lucca Alves Gomessan, Eduardo Augusto, Riudy Eduardo Uto, Erick,
-Darios, João "Mineiro" Vitor, Matheus, Gabriel Perdigão, Douglas, lucas Monteiro
+# Squad de desenvolvimento: William Marques, Lucca Alves Gomessan, Eduardo Augusto, Riudy Eduardo Uto,
+Erick Marques Lima, Darios, João "Mineiro" Vitor, Matheus, Gabriel Perdigão, Douglas, Lucas Monteiro
