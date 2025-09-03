@@ -13,7 +13,9 @@
  # Backend desenvolvido em Java 15
  # Utilizando Maven para gestão de dependência de projeto.
  # Swing para interface com o usuário.
- #Versionamento do projeto: Git/GitHub.
+ # Versionamento do projeto: Git/GitHub.
+ # Acquisição de Conhecimento / Redução de desconhecimento
+ # Pesquisar os tópicos
 
 
 1.2 - Requisitos Funcionais:
