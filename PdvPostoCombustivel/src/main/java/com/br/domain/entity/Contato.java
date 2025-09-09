@@ -13,6 +13,26 @@ public class Contato {
         this.email = email;
         this.endereco = endereco;
     }
-    public usuario
+    public String getTelefone(){
+        return telefone;
+    }
+    public void setTelefone{
+        this.telefone = telefone
+    }
 
+    public String getEmail() {
+        return email;
+    }
+
+    public void setEmail(String email) {
+        this.email = email;
+    }
+
+    public String getEndereco() {
+        return endereco;
+    }
+
+    public void setEndereco(String endereco) {
+        this.endereco = endereco;
+    }
 }
